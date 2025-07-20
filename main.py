@@ -53,3 +53,9 @@ if __name__ == "__main__":
     epochs = 10,
     device = device
     )
+
+    utils.save_model(
+        model = vit, 
+        target_dir = "models",
+        model_name = "vit_pytorch"
+    )
