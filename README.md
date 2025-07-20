@@ -2,7 +2,7 @@
 
 Paper: https://arxiv.org/pdf/2010.11929
 
-This is the implementation of ViT from scratch in pytorch
+This is my implementation of ViT from scratch in pytorch
 
 `utils.py` - Helper functions, create dataloader and save model
 
